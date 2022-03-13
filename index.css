@@ -1,5 +1,10 @@
-
-
+body{
+  max-width: 100%;
+  overflow-x: hidden;
+}
+.jhamela{
+  width: 100%;
+}
 
 .boom{
     
@@ -66,5 +71,8 @@
         .extra2{
           transform: skewY(0deg);
           
+        }
+        .jhamela{
+          width: 80%;
         }
       }
