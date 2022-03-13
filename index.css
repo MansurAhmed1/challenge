@@ -1,6 +1,6 @@
 body{
   max-width:100%;
-  overflow-x:hidden;
+ overflow-x: hidden;
 }
 .jhamela{
   width: 100%;
@@ -73,6 +73,6 @@ body{
           
         }
         .jhamela{
-          width: 95%;
+          width: 80%;
         }
       }
